@@ -7,4 +7,8 @@ export const NAV_ITEMS = [
     title: 'Users',
     href: '/users',
   },
+  {
+    title: 'Posts',
+    href: '/posts',
+  },
 ];
