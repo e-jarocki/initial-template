@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { Post } from '@/entities/Post/model/types';
+import { Post } from '@/entities/Post/model';
 
 type PostsState = Post[];
 
